@@ -514,6 +514,15 @@
     "scopeName": "source.nix"
   },
   {
+    "name": "Nushell",
+    "id": "nushell",
+    "fileName": "grammars/nushell.tmLanguage.json",
+    "scopeName": "source.nushell",
+    "aliases": [
+      "nu"
+    ]
+  },
+  {
     "name": "Objective C",
     "id": "objective-c",
     "fileName": "grammars/objective-c.tmLanguage.json",
